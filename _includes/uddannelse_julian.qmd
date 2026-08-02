@@ -1,5 +1,5 @@
-### **Professionsbachelor i Ernæring og Sundhed (Klinisk Diætist)** | *Københavns Professionshøjskole* \hfill **Feb 2021 – Jun 2024**
+### **Professionsbachelor i Ernæring og Sundhed (Klinisk Diætist)** | *Københavns Professionshøjskole* `#h(1fr)`{=typst} **Feb 2021 – Jun 2024**
 * **Fagligt fokus:** Ernæringsfysiologi, biokemi, patogenese, diætprincipper samt identifikationsfaktorer for ernæringsrisiko (NIS).
 * **Praktiske færdigheder:** Kostanamnese og samtaleteknik, NCP-modellen, måltidsudvikling med fokus på sensorik og grundsmage samt diætetisk madlavning (bl.a. målrettet nyre- og onkologipatienter).
 
-### **HF (Voksen- og ungdomsuddannelse)** | *KVUC, Københavns VUC* \hfill **Aug 2017 – Jun 2020**
+### **HF (Voksen- og ungdomsuddannelse)** | *KVUC, Københavns VUC* `#h(1fr)`{=typst} **Aug 2017 – Jun 2020**

@@ -22,8 +22,7 @@ include-in-header:
 
 # `r rmarkdown::metadata$profil$navn`
 **`r rmarkdown::metadata$profil$titel`**  
-📧 `r rmarkdown::metadata$profil$email` | 📍 `r rmarkdown::metadata$profil$adresse`  
-🔗 [GitHub](https://`r rmarkdown::metadata$profil$github`)
+`r rmarkdown::metadata$profil$adresse` | `r rmarkdown::metadata$profil$telefon` | `r rmarkdown::metadata$profil$email``r if (nchar(rmarkdown::metadata$profil$linkedin) > 0) paste0(" | [LinkedIn](https://", rmarkdown::metadata$profil$linkedin, ")")``r if (nchar(rmarkdown::metadata$profil$github) > 0) paste0(" | [GitHub](https://", rmarkdown::metadata$profil$github, ")")`
 
 ---
 
@@ -48,6 +47,32 @@ include-in-header:
 
 | Kategori | Beskrivelse |
 | :--- | :--- |
-| **Kliniske kompetencer** | NCP-modellen, Kostanamnese, Diætprincipper (Nefrologi/Onkologi), NIS-faktorer |
-| **Metoder & Værktøjer** | Kostberegninger, Sensorisk måltidsudvikling, Fysiologisk & Biokemisk analyse |
-| **Interesser** | Nyrefysiologi, Endokrinologi, Styrketræning & Fysiologi |
+| **Kliniske kompetencer** | Anvender NCP-modellen til ernæringsbehandling, gennemfører kostanamnese og udarbejder diætprincipper for nefrologi- og onkologipatienter. Identificerer ernæringsrisiko via NIS-faktorer. |
+| **Metoder & Værktøjer** | Kostberegninger, sensorisk måltidsudvikling, fysiologisk og biokemisk analyse af patientdata. |
+| **Sprog** | `r rmarkdown::metadata$profil$sprog` |
+| **Interesser** | Nyrefysiologi, endokrinologi, styrketræning & fysiologi |
+
+---
+
+## Kurser & Certifikater
+
+<!-- Tilføj relevante kurser og certifikater, fx:
+- Fødevaresikkerhed / Smiley-tilsyn
+- Førstehjælp
+- Kostberegningskursus
+-->
+
+---
+
+## Foreningsmedlemskaber
+
+<!-- Tilføj relevante medlemskaber, fx:
+- Dansk Selskab for Ernæring
+- Dansk Diætist Forening
+-->
+
+---
+
+## Referencer
+
+Referencer kan fremsendes ved anmodning.
