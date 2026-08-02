@@ -1,0 +1,56 @@
+---
+title: "Jobansøgning"
+date: today
+date-format: "D. MMMM YYYY"
+lang: da
+profil: !expr yaml::read_yaml("_data/profil.yml")
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - top=20mm
+      - bottom=20mm
+      - left=25mm
+      - right=25mm
+    fontsize: 11pt
+    pdf-engine: xelatex
+---
+
+\pagenumbering{gobble}
+
+**Afsender**  
+`$profil.navn$`  
+`$profil.adresse$`  
+Tlf: `$profil.telefon$` | E-mail: `$profil.email$`  
+LinkedIn: `$profil.linkedin$`  
+
+---
+
+**Modtager**  
+Virksomhed A/S  
+Att: [Navn på kontaktperson]  
+Adresse 45, 5000 Odense  
+
+---
+
+## Ansøgning om stillingen som [Stillingstitel]
+
+**Kære [Ansættelsesudvalg / Navn],**
+
+### Motivation og faglige profil
+
+{{< include _includes/profil_tekst.qmd >}}
+
+**Hvorfor denne stilling?**  
+[Skriv 1-2 specifikke afsnit rettet direkte mod den konkrete virksomhed og stilling her]
+
+**Udvalgt erfaring**  
+I min tidligere rolle har jeg blandt andet arbejdet med:
+* Evidensbaseret databehandling og analyse.
+* Optimering af arbejdsprocesser.
+
+Jeg ser frem til muligheden for at uddybe min erfaring ved en personlig samtale.
+
+Med venlig hilsen,  
+
+**`$profil.navn$`**

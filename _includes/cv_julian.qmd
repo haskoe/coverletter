@@ -1,0 +1,49 @@
+---
+title: "Curriculum Vitae"
+lang: da
+profil: !expr yaml::read_yaml("_data/profil.yml")
+format:
+  pdf:
+    documentclass: article
+    geometry:
+      - top=20mm
+      - bottom=20mm
+      - left=20mm
+      - right=20mm
+    fontsize: 10pt
+    pdf-engine: xelatex
+---
+
+\pagenumbering{gobble}
+
+# `$profil.navn$`
+**`$profil.titel$`**  
+📧 `$profil.email$` | 📍 `$profil.adresse$`  
+🔗 [GitHub](https://`$profil.github$`) | 🔗 [Facebook](https://`$profil.facebook$`)
+
+---
+
+## Profil
+{{< include _includes/profil_julian.qmd >}}
+
+---
+
+## Uddannelse
+
+{{< include _includes/uddannelse_julian.qmd >}}
+
+---
+
+## Erhvervserfaring & Praktik
+
+{{< include _includes/erfaring_julian.qmd >}}
+
+---
+
+## Faglige Kompetencer & Interesser
+
+| Kategori | Beskrivelse |
+| :--- | :--- |
+| **Kliniske kompetencer** | NCP-modellen, Kostanamnese, Diætprincipper (Nefrologi/Onkologi), NIS-faktorer |
+| **Metoder & Værktøjer** | Kostberegninger, Sensorisk måltidsudvikling, Fysiologisk & Biokemisk analyse |
+| **Interesser** | Nyrefysiologi, Endokrinologi, Styrketræning & Fysiologi |

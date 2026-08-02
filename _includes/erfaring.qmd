@@ -1,0 +1,7 @@
+### **Klinisk Diætist** | *Hospital / Virksomhed* \hfill **2022 – Nu**
+* Vejledning, dataopsamling og implementering af kliniske ernæringsplaner.
+* Optimering af workflows og dataindsamlingsmetoder.
+
+### **Projektmedarbejder / Forsker** | *Universitet* \hfill **2020 – 2022**
+* Evaluering af kostvurderingsmetoder og validering af kostdata.
+* Databehandling, statistisk analyse og rapportskrivning.
