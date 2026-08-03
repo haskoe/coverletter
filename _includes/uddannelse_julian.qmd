@@ -1,7 +1,7 @@
-### **Cand.scient. i Human Ernæring** | *Københavns Universitet* `#h(1fr)`{=typst} **2024 – 2026**
+### **Master of Science (MSc) in Human Nutrition** | *Københavns Universitet* `#h(1fr)`{=typst} **2024 – 2026**
 * Kandidatuddannelse i human ernæring — forventet færdiggørelse medio august 2026.
 
-### **Professionsbachelor i Ernæring og Sundhed (Klinisk Diætist)** | *Københavns Professionshøjskole* `#h(1fr)`{=typst} **Feb 2021 – Jun 2024**
+### **Professionsbachelor i Ernæring og Sundhed (Klinisk Diætetik)** | *Københavns Professionshøjskole (KP)* `#h(1fr)`{=typst} **2021 – 2024**
 * **Fagligt fokus:** Ernæringsfysiologi, biokemi, patogenese, diætprincipper samt identifikationsfaktorer for ernæringsrisiko (NIS).
 * **Praktiske færdigheder:** Kostanamnese og samtaleteknik, NCP-modellen, måltidsudvikling med fokus på sensorik og grundsmage samt diætetisk madlavning (bl.a. målrettet nyre- og onkologipatienter).
 
