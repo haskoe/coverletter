@@ -6,3 +6,6 @@
 ### **Praktikant** | *Frederiksvej Børnehave* `#h(1fr)`{=typst} **Sep 2020 – Dec 2020**
 * Tilberedning og anretning af måltider samt servering for børn.
 * Håndtering af køkkenhygiejne, oprydning og daglig rengøring.
+
+### **Serviceelev / Servicemedarbejder** | *Fitness World Lygten* `#h(1fr)`{=typst} **Aug 2015 – Jun 2017**
+* Reception, kundebetjening, varemodtagelse, lagerstyring og vedligeholdelse af centerområder.

@@ -1,5 +1,4 @@
 ---
-title: "Curriculum Vitae"
 lang: da
 engine: knitr
 profil: !expr yaml::read_yaml("_data/profil.yml")
@@ -16,7 +15,9 @@ include-in-header:
     #show heading.where(level: 2): it => {
       block(breakable: false, height: 25%)
       v(-25%, weak: true)
-      it
+      block(stroke: (bottom: 0.4pt), inset: (bottom: 2pt))[
+        #text(weight: "bold", size: 11pt, tracking: 0.5pt)[#upper(it.body)]
+      ]
     }
 ---
 
@@ -49,8 +50,9 @@ include-in-header:
 | :--- | :--- |
 | **Kliniske kompetencer** | Anvender NCP-modellen til ernæringsbehandling, gennemfører kostanamnese og udarbejder diætprincipper for nefrologi- og onkologipatienter. Identificerer ernæringsrisiko via NIS-faktorer. |
 | **Metoder & Værktøjer** | Kostberegninger, sensorisk måltidsudvikling, fysiologisk og biokemisk analyse af patientdata. |
-| **Sprog** | `r rmarkdown::metadata$profil$sprog` |
 | **Interesser** | Nyrefysiologi, endokrinologi, styrketræning & fysiologi |
+
+**Sprog:** `r gsub(", ", "  \n", rmarkdown::metadata$profil$sprog)`
 
 ---
 
