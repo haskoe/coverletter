@@ -1,0 +1,19 @@
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build:even": "node build.js da even",
+    "build:flat": "node build.js da flat",
+    "build:paper": "node build.js da paper",
+    "build:pdf": "node build.js da even && npx chrome-headless-render-pdf --url file://$(pwd)/dist/index_da_even.html --pdf dist/Julian_CV.pdf --no-margins"
+  },
+  "dependencies": {
+    "jsonresume-theme-even": "^0.26.1",
+    "jsonresume-theme-flat": "^0.3.7",
+    "jsonresume-theme-kendall": "^0.2.0",
+    "jsonresume-theme-macchiato": "^1.1.0",
+    "jsonresume-theme-paper": "^0.5.0",
+    "puppeteer": "^25.4.0"
+  }
+}

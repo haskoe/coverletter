@@ -1,80 +1,135 @@
 ---
 lang: da
 engine: knitr
-profil: !expr yaml::read_yaml("_data/profil.yml")
 format:
   typst:
-    paper: a4
+    papersize: a4
     margin:
-      x: 2cm
-      y: 2cm
-    mainfont: "Liberation Sans" # eller en anden lokal skrifttype (f.eks. Arial, Calibri, Helvetica)
-    fontsize: 10pt
+      x: 0cm
+      y: 0cm
+    mainfont: "Liberation Sans"
+    fontsize: 9.5pt
+    page-numbers: false
 include-in-header:
   text: |
-    #show heading.where(level: 2): it => {
-      block(breakable: false, height: 25%)
-      v(-25%, weak: true)
-      block(stroke: (bottom: 0.4pt), inset: (bottom: 2pt))[
-        #text(weight: "bold", size: 11pt, tracking: 0.5pt)[#upper(it.body)]
+    #let sideblue = rgb("C6E5EF")
+    #let ink = rgb("#334B57")
+
+    #set text(font: "Liberation Sans", fill: ink, lang: "da")
+    #set par(leading: 0.85em, justify: false)
+    #show link: it => text(fill: ink)[#it]
+
+    #set page(background: place(top + left,
+      rect(width: 7.6cm, height: 100%, fill: sideblue, stroke: none)))
+
+    #let hsec(title) = block(above: 1.0em, below: 0.7em)[
+      #text(weight: "bold", size: 10pt, tracking: 0.8pt)[#upper(title)]
+    ]
+
+    #let post(title, place, dates) = block(above: 0.7em, below: 0.15em)[
+      #text(size: 9.5pt, weight: "bold")[#title]
+      #text(size: 9.5pt)[ *— #place* ]
+      #h(1fr)
+      #text(size: 9.5pt, weight: "bold")[#dates]
+    ]
+
+    #let contact(icon, body) = box(baseline: 0pt)[
+      #image(icon, height: 9pt)
+      #h(5pt)
+      #text(size: 9pt)[#body]
+    ]
+
+    #set list(indent: 0pt, body-indent: 0.4em, spacing: 0.6em)
+---
+
+```{r setup, include=FALSE}
+p <- yaml::read_yaml("_data/profil.yml")
+navn <- p$navn
+titel <- p$titel
+adresse <- paste0('"', p$adresse, '"')
+telefon <- paste0('"', p$telefon, '"')
+email <- paste0('"', p$email, '"')
+sprog <- gsub(", ", "  \n", p$sprog)
+```
+
+```{=typst}
+#grid(
+  columns: (7.6cm, 1fr),
+  column-gutter: 0pt,
+
+  // ───────── VENSTRE SIDEBAR (blå) ─────────
+  pad(left: 0.9cm, right: 0.7cm, top: 1.2cm, bottom: 1.0cm)[
+
+    #align(center)[
+      #circle(fill: ink, width: 3.0cm, height: 3.0cm, stroke: none)[
+        #set text(fill: white, size: 30pt, weight: "bold")
+        #v(0.15em)
+        JB
       ]
-    }
----
+    ]
 
-# `r rmarkdown::metadata$profil$navn`
-**`r rmarkdown::metadata$profil$titel`**  
-`r rmarkdown::metadata$profil$adresse` | `r rmarkdown::metadata$profil$telefon` | `r rmarkdown::metadata$profil$email``r if (nchar(rmarkdown::metadata$profil$linkedin) > 0) paste0(" | [LinkedIn](https://", rmarkdown::metadata$profil$linkedin, ")")``r if (nchar(rmarkdown::metadata$profil$github) > 0) paste0(" | [GitHub](https://", rmarkdown::metadata$profil$github, ")")`
+    #v(0.7cm)
 
----
+    #hsec("Kontakt")
+    #block[{
+      #set par(leading: 0.15em)
+      #contact("_icons/phone.png", `r telefon`)  \
+      #contact("_icons/mail.png", `r email`)  \
+      #contact("_icons/address.png", `r adresse`)
+    }]
 
-## Profil
-{{< include _includes/profil_julian.qmd >}}
+    #hsec("Uddannelse")
 
----
+    #post("MSc in Human Nutrition", "Københavns Universitet", "2024 – 2026")
+    - Kandidatuddannelse i human ernæring — forventet færdiggørelse medio august 2026.
 
-## Uddannelse
+    #post("Professionsbachelor i Ernæring og Sundhed (Klinisk Diætetik)", "Københavns Professionshøjskole (KP)", "2021 – 2024")
+    - *Fagligt fokus:* Ernæringsfysiologi, biokemi, patogenese, diætprincipper samt identifikationsfaktorer for ernæringsrisiko (NIS).
+    - *Praktiske færdigheder:* Kostanamnese og samtaleteknik, NCP-modellen, måltidsudvikling med fokus på sensorik og grundsmage samt diætetisk madlavning (bl.a. målrettet nyre- og onkologipatienter).
 
-{{< include _includes/uddannelse_julian.qmd >}}
+    #post("HF (Voksen- og ungdomsuddannelse)", "KVUC, Københavns VUC", "Aug 2017 – Jun 2020")
+    - Faglig profil: Naturvidenskabelige og sundhedsfaglige fag som grundlag for videre uddannelse.
 
----
+    #hsec("Faglige kompetencer")
+    - Kliniske kompetencer: NCP-modellen, kostanamnese, diætprincipper (nefrologi/onkologi), NIS-faktorer
+    - Metoder & værktøjer: Kostberegninger, sensorisk måltidsudvikling, fysiologisk & biokemisk analyse
+    - Interesser: Nyrefysiologi, endokrinologi, styrketræning & fysiologi
 
-## Erhvervserfaring & Praktik
+    #hsec("Sprog")
+    `r sprog`
 
-{{< include _includes/erfaring_julian.qmd >}}
+    #hsec("Referencer")
+    Referencer kan fremsendes ved anmodning.
+  ],
 
----
+  // ───────── HØJRE HOVEDSPALTE (hvid) ─────────
+  pad(left: 0.8cm, right: 1.2cm, top: 1.2cm, bottom: 1.0cm)[
 
-## Faglige Kompetencer & Interesser
+    #text(size: 22pt, weight: "bold", tracking: 0.2pt)[`r navn`]
+    #v(-0.3em)
+    #text(size: 11pt)[`r titel`]
 
-| Kategori | Beskrivelse |
-| :--- | :--- |
-| **Kliniske kompetencer** | Anvender NCP-modellen til ernæringsbehandling, gennemfører kostanamnese og udarbejder diætprincipper for nefrologi- og onkologipatienter. Identificerer ernæringsrisiko via NIS-faktorer. |
-| **Metoder & Værktøjer** | Kostberegninger, sensorisk måltidsudvikling, fysiologisk og biokemisk analyse af patientdata. |
-| **Interesser** | Nyrefysiologi, endokrinologi, styrketræning & fysiologi |
+    #v(0.5cm)
 
-**Sprog:** `r gsub(", ", "  \n", rmarkdown::metadata$profil$sprog)`
+    #hsec("Kort præsentation")
 
----
+    Klinisk diætist (Cand.scient. i human ernæring) med særlig interesse for klinisk diætetik, fysiologi og biokemi. Har en dyb faglig passion for nefrologi (nyresygdomme) og endokrinologi samt praktisk erfaring med Nutrition Care Process (NCP-modellen), diætprincipper og kostberegninger. Drevet af at vejlede og hjælpe patienter gennem individuelt tilpassede ernæringsindsatser.
 
-## Kurser & Certifikater
+    #hsec("Erhvervserfaring")
 
-<!-- Tilføj relevante kurser og certifikater, fx:
-- Fødevaresikkerhed / Smiley-tilsyn
-- Førstehjælp
-- Kostberegningskursus
--->
+    #post("Serviceelev / Servicemedarbejder", "Fitness World Lygten", "Aug 2015 – Jun 2017")
+    - Reception, kundebetjening, varemodtagelse, lagerstyring og vedligeholdelse af centerområder.
 
----
+    #hsec("Praktik")
 
-## Foreningsmedlemskaber
+    #post("Køkkenpraktikant (3. semester)", "Børnehaven Lundsgade", "Maj 2022 – Jun 2022")
+    - Ansvarsområder i samarbejde med køkkenchefen: Madlavning, bagning, menuplanlægning og råvareindkøb.
+    - Udvikling af opskrifter og tilberedning af måltider til større grupper.
+    - *Nøgleresultater:* Styrket selvstændighed, overblik under tidspres og praktisk erfaring med køkkenstyring.
 
-<!-- Tilføj relevante medlemskaber, fx:
-- Dansk Selskab for Ernæring
-- Dansk Diætist Forening
--->
-
----
-
-## Referencer
-
-Referencer kan fremsendes ved anmodning.
+    #post("Praktikant", "Frederiksvej Børnehave", "Sep 2020 – Dec 2020")
+    - Tilberedning og anretning af måltider samt servering for børn.
+    - Håndtering af køkkenhygiejne, oprydning og daglig rengøring.
+  ]
+)
+```
