@@ -13,9 +13,9 @@ cv:
   custom_connections:
   sections:
     Profil:
-      - "Jeg afslutter min kandidat i Human Nutrition (MSc) fra Københavns Universitet August 2026, med en professionsbachelor i Ernæring og Sundhed (Klinisk Diætetik) i bagagen. Mine interesser er ernæring, sundhed, kostplaner og i min fritid styrketræning."
-      - "I min dagligdag træner jeg og har i perioder været på kostplan som jeg selv har lagt, derfor er jeg meget ind over det med mad, mængder og tal. I min fritid læser jeg også rigtig meget om kroppens fysiologi, de biokemiske processer der sker i kroppen, og ernæring og diætprincipper i forhold til specifikke sygdomme. Jeg har en meget bred interesse i forhold til ernæring og sygdomme, da jeg synes det meste er interessant. Jeg har dog en særlig interesse for nyrernes fysiologi, og diætprincipper for folk med nyresygdomme. Det har altid interesseret mig meget, men efter jeg kom ind på klinisk diætist linjen, har jeg brugt ekstra meget tid på at læse op på det. Endokrinologi interesserer mig også rigtig meget, og det har det gjort i mange år efterhånden, så det bruger jeg en del af min fritid på at fordybe mig i. Min drøm er at diæt vejlede patienter indenfor nefrologien."
-      - "Ernæring og sundhed uddannelsen har bidraget med læring om ernærings fysiologi, biokemi, kostvejledning, mængde beregninger i forhold til kostplaner og fødevarer som især er vigtig i forhold til den kliniske praktik, jeg har gennemført på diætistlinjen. Derudover har vi også haft en del madlavning med fokus på sensorik og grundsmagenses sammenspil, det er også relevant da vejledning så bliver nemmere i forhold til patientens præferencer da diætisten vil have nemmere ved at anbefale et måltid eller sammensætning af fødevarer i forhold til patientens smagspræferencer. Især på 5 semester på diætist linjen tager jeg meget af de arbejdsopgaver og læring vi er kommet igennem med. Vi har haft undervisning i sygdommene herunder patogenese, diætprincipper, NIS faktorer som er faktorer der potentielt kan forhindre patienten i at indtage den sufficiente mængde af mad. Jeg tager kostvejlednings redskaberne med mig herunder NCP modellen med mig, og det rollespil vi har haft i forhold til kostanamnese, patient samtalen og den efterfølgende kostintervention. Jeg tager også de to køkkenøvelser med, der omhandlede madlavning til nyrepatienter og onkologi patienter, på den måde har jeg kunne sammensætte et måltid der stemmer overens med diætprincipperne indenfor de målgrupper i praksis."
+      - "Kandidatstuderende i Human Nutrition (MSc) ved Københavns Universitet (færdig august 2026) med professionsbachelor i Ernæring og Sundhed (Klinisk Diætetik). Stærk faglig og praktisk erfaring med ernæringsfysiologi, biokemi, kostvejledning og kostberegning."
+      - "Særlig interesse for nefrologi og endokrinologi og for diætprincipper til patienter med nyresygdomme. Min drøm er at diætvejlede patienter inden for nefrologien."
+      - "Erfaren med klinisk kostvejledning fra praktik på diætistlinjen: kostanamnese, patientsamtale og kostintervention efter NCP-modellen, samt måltidssammensætning til nyre- og onkologipatienter. Til daglig styrketræner jeg og arbejder med egne kostplaner."
     education:
       - institution: Københavns Universitet
         area: Human Nutrition
@@ -36,7 +36,7 @@ cv:
         location:
         summary:
         highlights:
-    experience:
+    Praktik:
       - company: Børnehaven Lundsgade
         position: Praktik 3. semester, Børnehaven Lundsgade
         date:
@@ -82,10 +82,6 @@ design:
   theme: classic
 locale:
   language: danish
-  section_labels:
-    summary: "opsummering"
-    experience: "Erfaring"
-    education: "Uddannelse"
 settings:
   current_date: today
   render_command:
