@@ -27,7 +27,7 @@ cv:
         location:
         summary:
         highlights:
-          - "Kandidatspeciale om fosfor- og kalciumbalance hos fase 4/5 præ-dialyse nyrepatienter (præcis titel følger). Planlagde og eksekverede klinisk studie inkl. fuld opsætning af dataindsamling i REDCap og Sundhedsplatformen. Ansvarlig for patientrekruttering, modtagelse af deltagerne og praktisk dataindsamling i klinisk regi. Gennemførte kvantitativ dataanalyse og statistisk bearbejdning i GraphPad Prism og Excel"
+          - "Kandidatspeciale om sammenhængen mellem nyrefunktion og calcium-/fosfatbalance hos stadie 4-5 kronisk nyresyge patienter, samt sammenligning af calcium-, fosfor- og natriumindtag mellem vejet registrering og billedmetode (præcis titel følger). Udarbejdede forsøgsprotokol og registrerede forsøget på clinicaltrials.gov. Rekrutterede 50 patienter, lærte dem op i kostregistrering via begge metoder og gennemførte opfølgende samtaler og vejledning mht. calcium og fosfor. Anvendte Sundhedsplatformen og registrerede data i VitaKost, REDCap og Excel, med statistisk analyse i GraphPad Prism. Forsøget skal publiceres efter forsvar"
       - institution: Københavns Professionshøjskole
         area: Ernæring og Sundhed (Klinisk Diætetik)
         degree: BAS
@@ -37,7 +37,42 @@ cv:
         location:
         summary:
         highlights:
+          - "Bachelorprojekt: “Not just about weight: Identifying hidden nutritional vulnerability after radical cystectomy” (publiceret, PubMed). Som klinisk diætiststuderende stod jeg for registrering af energi- og proteinindtag samt NIS-faktorer (kvalme, madlede, smerter) på dag 1, 2, 3, 4, 5, 6, 7, 14 og 30 efter operation. Fik erfaring med Sundhedsplatformen, dataindsamling og patientsamtaler."
     Praktik:
+      - company: Rigshospitalet Glostrup
+        position: Klinisk praktik, ernæringsterapi til neurologiske patienter
+        date:
+        start_date: 2023-02
+        end_date: 2023-03
+        location:
+        summary: "4 ugers klinisk praktik med ernæringsterapi til neurologiske patienter (tetraplegi, Parkinson) samt patienter med spiseforstyrrelser og diabetes. Deltog i kostvejledninger af de nævnte patientgrupper."
+        highlights:
+          - Ernæringsterapi til neurologiske patienter
+          - Kostvejledning
+          - Spiseforstyrrelser og diabetes
+      - company: Frederiksberg Hospital
+        position: Klinisk praktik, hjerteafdelingen
+        date:
+        start_date: 2023-09
+        end_date: 2023-10
+        location:
+        summary: "6 ugers klinisk praktik på hjerteafdelingen. 4 ugedage med fokus på hjertesund kost (Hjerteforeningens anbefalinger for kolesterolsænkende kost) og højproteinkost til postoperative patienter (bl.a. CABG). 1 ugedag med observation og egen undervisning i vægttab i forsøg med knæartrosepatienter."
+        highlights:
+          - Hjertesund kost
+          - Højproteinkost til postoperative patienter
+          - Undervisning i vægttab
+      - company: Rigshospitalet København
+        position: Klinisk praktik, nefrologisk afdeling
+        date:
+        start_date: 2024-02
+        end_date: 2024-04
+        location:
+        summary: "10 ugers klinisk praktik på nefrologisk afdeling. Vejledning af nefrologiske patienter med henblik på fosfat, kalium og protein for både præ-dialyse- og dialysepatienter i tværprofessionelt samarbejde med læger og sygeplejersker. Yderligere endokrinologiske patienter, bl.a. type 1- og type 2-diabetes samt pancreasresekerede patienter."
+        highlights:
+          - Nefrologisk kostvejledning (fosfat, kalium, protein)
+          - Præ-dialyse- og dialysepatienter
+          - Tværprofessionelt samarbejde
+          - Endokrinologiske patienter
       - company: Børnehaven Lundsgade
         position: Praktik 3. semester, Børnehaven Lundsgade
         date:
