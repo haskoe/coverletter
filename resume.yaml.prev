@@ -1,0 +1,115 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Julian Askøe Bluming
+  headline: Studerer Ernæring og Sundhed
+  location: Tobakskollegiet, Søborg, København
+  email: julian.askoe@gmail.com
+  photo:
+  phone:
+  website:
+  social_networks:
+    - network: GitHub
+      username: julianaskoe
+  custom_connections:
+  sections:
+    "Om mig":
+      - "Jeg studerer Ernæring og Sundhed på 5. semester. Mine interesser er ernæring, sundhed, kostplaner og i min fritid styrketræning."
+      - "I min dagligdag træner jeg og har i perioder været på kostplan som jeg selv har lagt, derfor er jeg meget ind over det med mad, mængder og tal. I min fritid læser jeg også rigtig meget om kroppens fysiologi, de biokemiske processer der sker i kroppen, og ernæring og diætprincipper i forhold til specifikke sygdomme. Jeg har en meget bred interesse i forhold til ernæring og sygdomme, da jeg synes det meste er interessant. Jeg har dog en særlig interesse for nyrernes fysiologi, og diætprincipper for folk med nyresygdomme. Det har altid interesseret mig meget, men efter jeg kom ind på klinisk diætist linjen, har jeg brugt ekstra meget tid på at læse op på det. Endokrinologi interesserer mig også rigtig meget, og det har det gjort i mange år efterhånden, så det bruger jeg en del af min fritid på at fordybe mig i. Min drøm er at diæt vejlede patienter indenfor nefrologien."
+    education:
+      - institution: Københavns Universitet
+        area: Human Nutrition
+        degree: Kandidat (MSc)
+        date:
+        start_date: 2024-09
+        end_date: 2026-08
+        location:
+        summary: Kandidatuddannelse i human ernæring — forventet færdiggørelse medio august 2026.
+        highlights:
+          - Kandidatspeciale: Planlagde og eksekverede klinisk studie inkl. fuld opsætning af dataindsamling i REDCap
+          - Ansvarlig for patientrekruttering, modtagelse af deltagerne og praktisk dataindsamling i klinisk regi
+          - Gennemførte kvantitativ dataanalyse og statistisk bearbejdning i GraphPad Prism og Excel
+      - institution: Københavns Professionshøjskole
+        area: Ernæring og Sundhed (Klinisk Diætetik)
+        degree: Professionsbachelor
+        date:
+        start_date: 2021-02
+        end_date: 2024-06
+        location:
+        summary:
+        highlights:
+          - Fagligt fokus: Ernæringsfysiologi, biokemi, patogenese, diætprincipper samt identifikationsfaktorer for ernæringsrisiko (NIS)
+          - Praktiske færdigheder: Kostanamnese og samtaleteknik, NCP-modellen, måltidsudvikling med fokus på sensorik og grundsmage samt diætetisk madlavning (bl.a. målrettet nyre- og onkologipatienter)
+      - institution: KVUC, Københavns VUC
+        area: HF, voksen- og ungdomsuddannelser
+        degree: HF
+        date:
+        start_date: 2017-08
+        end_date: 2020-06
+        location:
+        summary:
+        highlights:
+          - Faglig profil: Naturvidenskabelige og sundhedsfaglige fag som grundlag for videre uddannelse
+    experience:
+      - company: Børnehaven Lundsgade
+        position: Køkkenpraktikant (3. semester)
+        date:
+        start_date: 2022-05
+        end_date: 2022-06
+        location:
+        summary: På 3. semester kom jeg i praktik i en børnehave. Her stod jeg i køkken i samarbejde med en køkkenchef. Opgaverne stod blandt andet på at bage brød, lave mad, skære frugt og grønt, tage opvaskeren, gøre rent, servere mad til børnene, vare indkøb og komme med en opskrift til et måltid.
+        highlights:
+          - Madlavning, bagning, menuplanlægning og råvareindkøb
+          - Udvikling af opskrifter og tilberedning af måltider til større grupper
+          - Styrket selvstændighed, overblik under tidspres og praktisk erfaring med køkkenstyring
+      - company: Frederiksvej Børnehave
+        position: Praktikant
+        date:
+        start_date: 2020-09
+        end_date: 2020-12
+        location:
+        summary: Oprydning, rengøring og servering af måltider for børn.
+        highlights:
+          - Tilberedning og anretning af måltider samt servering for børn
+          - Håndtering af køkkenhygiejne, oprydning og daglig rengøring
+      - company: Fitness World Lygten
+        position: Serviceelev / Servicemedarbejder
+        date:
+        start_date: 2015-08
+        end_date: 2017-06
+        location:
+        summary: "Opgaver: oprydning, rengøring, betjening af kunder og andet receptionist arbejde. Ordne varelager og modtage produkter."
+        highlights:
+          - Reception, kundebetjening, varemodtagelse, lagerstyring og vedligeholdelse af centerområder
+    "Faglige kompetencer":
+      - label: Kliniske kompetencer
+        details: NCP-modellen, kostanamnese, diætprincipper (nefrologi/onkologi), NIS-faktorer
+      - label: Metoder & værktøjer
+        details: Kostberegninger, sensorisk måltidsudvikling, fysiologisk & biokemisk analyse
+      - label: Sprog
+        details: Dansk (modersmål), Engelsk (flydende)
+    interesser:
+      - bullet: Nyrefysiologi
+      - bullet: Endokrinologi
+      - bullet: Styrketræning & fysiologi
+design:
+  theme: classic
+locale:
+  language: english
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output
+    design:
+    locale:
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
+  pdf_title: NAME - CV

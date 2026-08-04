@@ -1,0 +1,33 @@
+{
+  "basics": {
+    "name": "Julian Askøe Bluming",
+    "label": "Kandidat i Human Ernæring (Clinical Nutrition)",
+    "email": "julian.askoe@gmail.com",
+    "summary": "Her står din samlede introduktion, motivation og forskningsprofil..."
+  },
+
+  "education": [
+    {
+      "institution": "Københavns Universitet",
+      "area": "Human Ernæring (Klinisk Ernæring)",
+      "studyType": "Kandidat (Cand.scient.)",
+      "startDate": "2024-09-01",
+      "endDate": "2026-06-30",
+      "highlights": [
+        "Kandidatspeciale: Opsætning af klinisk studie og databaser i REDCap",
+        "Modtagelse og rekruttering af patienter samt klinisk dataindsamling",
+        "Statistisk dataanalyse og databehandling i GraphPad Prism og Excel"
+      ]
+    }
+  ],
+
+  "work": [
+    {
+      "name": "Børnehaven Lundsgade",
+      "position": "Praktikant (3. semester)",
+      "startDate": "2022-05-01",
+      "endDate": "2022-06-15",
+      "summary": "Planlægning og eksekvering af måltider..."
+    }
+  ]
+}

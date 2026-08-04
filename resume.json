@@ -7,7 +7,7 @@
     "label": "Studerer Ernæring og Sundhed",
     "image": "https://scontent.fcph3-1.fna.fbcdn.net/v/t39.30808-6/329882397_597385928545179_4606700567633201030_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=KXlOr0-Vjd0AX8hTeeT&_nc_ht=scontent.fcph3-1.fna&oh=00_AfD43NlvFr99OiQmrUUjbdXknJDS7H1qREVd9sFY3OCUlQ&oe=646B98C8",
     "im": "https://www.facebook.com/photo/?fbid=150301247895398&set=a.150301261228730",
-    "about": "Jeg studerer Ernæring og Sundhed på 5. semester. Mine interesser er ernæring, sundhed, kostplaner og i min frtid styrketræning.",
+    "summary": "Jeg studerer Ernæring og Sundhed på 5. semester. Mine interesser er ernæring, sundhed, kostplaner og i min frtid styrketræning.",
     "motivation": "I min dagligdag træner jeg og har i perioder været på kostplan som jeg selv har lagt, derfor er jeg meget ind over det med mad, mængder og tal. I min fritid læser jeg også rigtig meget om kroppens fysiologi, de biokemiske processer der sker i kroppen, og ernæring og diæt principper i forhold til specifikke sygdomme. Jeg har en meget bred interesse i forhold til ernæring og sygdomme, da jeg synes det meste er interessant. Jeg har dog en særlig interesse for nyrernes fysiologi, og diætprincipper for folk med nyresygdomme. Det har altid interesseret mig meget, men efter jeg kom ind på klinisk diætist linjen, har jeg brugt ekstra meget tid på at læse op på det. Endokrinologi interesserer mig også rigtig meget, og det har det gjort i mange år efterhånden, så det bruger jeg en del af min fritid på at fordybe mig i. Min drøm er at diæt vejlede patienter indenfor nefrologien.",
     "status": "Ernæring og sundhed uddannelsen har bidraget med læring om ernærings fysiologi, biokemi, kostvejledning, mængde beregninger i forhold til kostplaner og fødevarer som især er vigtig i forhold til den kommende praktik næste semester. Derudover har vi også haft en del madlavning med fokus på sensorik og grundsmagenes sammenspil, det er også relevant da vejledning så bliver nemmere i forhold til patientens præferencer da diætisten vil have nemmere ved at anbefale et måltid eller sammensætning af fødevarer i forhold til patientens smagspræferencer. Især på 5 semester på diætist linjen tager jeg meget af de arbejdsopgaver og læring vi er kommet igennem med. Vi har haft undervisning i sygdommene herunder patogenese, diætprincipper, NIS faktorer som er faktorer der potentielt kan forhindre patienten i at indtage den sufficiente mængde af mad. Jeg tager kostvejlednings redskaberne med mig herunder NCP modellen med mig, og det rollespil vi har haft i forhold til kostanamnese, patient samtalen og den efterfølgende kostintervention. Jeg tager også de to køkkenøvelser med, der omhandlede madlavning til nyrepatienter og onkologi patienter, på den måde har jeg kunne sammensætte et måltid der stemmer overens med diætprincipperne indenfor de målgrupper i praksis.",
     "email": "julian.askoe@gmail.com",
@@ -29,17 +29,34 @@
   },
   "education": [
     {
+      "endDate": "2026-08-15",
+      "startDate": "2024-09-01",
+      "area": "Human Nutrition",
+      "studyType": "Kandidat (MSc)",
+      "institution": "Københavns Universitet",
+      "score": "Speciale: [Titel på dit speciale]",
+      "courses": [
+        "Klinisk Ernæring",
+        "Forskningsmetodologi & Biostatistik"
+      ],
+      "highlights": [
+        "Kandidatspeciale: Planlagde og eksekverede klinisk studie inkl. fuld opsætning af dataindsamling i REDCap",
+        "Ansvarlig for patientrekruttering, modtagelse af deltagerne og praktisk dataindsamling i klinisk regi",
+        "Gennemførte kvantitativ dataanalyse og statistisk bearbejdning i GraphPad Prism og Excel"
+      ]
+    },
+    {
       "endDate": "2024-06-15",
       "startDate": "2021-02-01",
-      "area": "Ernæring og Sundhed",
-      "studyTypee": "Bachelor",
+      "area": "Ernæring og Sundhed (Klinisk Diætetik)",
+      "studyType": "Professionsbachelor",
       "institution": "Københavns Professionshøjskole"
     },
     {
       "endDate": "2020-06-25",
       "startDate": "2017-08-15",
       "area": "HF, voksen- og ungdomsuddannelser",
-      "studyTypee": "HF",
+      "studyType": "HF",
       "institution": "KVUC, Københavns VUC"
     }
   ],

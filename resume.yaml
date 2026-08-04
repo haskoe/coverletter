@@ -1,0 +1,104 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Julian Askøe Bluming
+  headline: Studerer Ernæring og Sundhed
+  location: Tobakskollegiet, Søborg, København
+  email: julian.askoe@gmail.com
+  photo:
+  phone:
+  website:
+  social_networks:
+    - network: GitHub
+      username: julianaskoe
+  custom_connections:
+  sections:
+    Profil:
+      - "Jeg studerer Ernæring og Sundhed på 5. semester. Mine interesser er ernæring, sundhed, kostplaner og i min fritid styrketræning."
+      - "I min dagligdag træner jeg og har i perioder været på kostplan som jeg selv har lagt, derfor er jeg meget ind over det med mad, mængder og tal. I min fritid læser jeg også rigtig meget om kroppens fysiologi, de biokemiske processer der sker i kroppen, og ernæring og diætprincipper i forhold til specifikke sygdomme. Jeg har en meget bred interesse i forhold til ernæring og sygdomme, da jeg synes det meste er interessant. Jeg har dog en særlig interesse for nyrernes fysiologi, og diætprincipper for folk med nyresygdomme. Det har altid interesseret mig meget, men efter jeg kom ind på klinisk diætist linjen, har jeg brugt ekstra meget tid på at læse op på det. Endokrinologi interesserer mig også rigtig meget, og det har det gjort i mange år efterhånden, så det bruger jeg en del af min fritid på at fordybe mig i. Min drøm er at diæt vejlede patienter indenfor nefrologien."
+      - "Ernæring og sundhed uddannelsen har bidraget med læring om ernærings fysiologi, biokemi, kostvejledning, mængde beregninger i forhold til kostplaner og fødevarer som især er vigtig i forhold til den kommende praktik næste semester. Derudover har vi også haft en del madlavning med fokus på sensorik og grundsmagenses sammenspil, det er også relevant da vejledning så bliver nemmere i forhold til patientens præferencer da diætisten vil have nemmere ved at anbefale et måltid eller sammensætning af fødevarer i forhold til patientens smagspræferencer. Især på 5 semester på diætist linjen tager jeg meget af de arbejdsopgaver og læring vi er kommet igennem med. Vi har haft undervisning i sygdommene herunder patogenese, diætprincipper, NIS faktorer som er faktorer der potentielt kan forhindre patienten i at indtage den sufficiente mængde af mad. Jeg tager kostvejlednings redskaberne med mig herunder NCP modellen med mig, og det rollespil vi har haft i forhold til kostanamnese, patient samtalen og den efterfølgende kostintervention. Jeg tager også de to køkkenøvelser med, der omhandlede madlavning til nyrepatienter og onkologi patienter, på den måde har jeg kunne sammensætte et måltid der stemmer overens med diætprincipperne indenfor de målgrupper i praksis."
+    education:
+      - institution: Københavns Universitet
+        area: Human Nutrition
+        degree: Kandidat (MSc)
+        date:
+        start_date: 2024-09
+        end_date: 2026-08
+        location:
+        summary:
+        highlights:
+          - Kandidatspeciale: Planlagde og eksekverede klinisk studie inkl. fuld opsætning af dataindsamling i REDCap
+          - Ansvarlig for patientrekruttering, modtagelse af deltagerne og praktisk dataindsamling i klinisk regi
+          - Gennemførte kvantitativ dataanalyse og statistisk bearbejdning i GraphPad Prism og Excel
+      - institution: Københavns Professionshøjskole
+        area: Ernæring og Sundhed (Klinisk Diætetik)
+        degree: Professionsbachelor
+        date:
+        start_date: 2021-02
+        end_date: 2024-06
+        location:
+        summary:
+        highlights:
+    experience:
+      - company: Børnehaven Lundsgade
+        position: Praktik 3. semester, Børnehaven Lundsgade
+        date:
+        start_date: 2022-05
+        end_date: 2022-06
+        location:
+        summary: "På 3. semester kom jeg i praktik i en børnehave. Her stod jeg i køkken i samarbejde med en køkkenchef. Opgaverne stod blandt andet på at bage brød, lave mad, skære frugt og grønt, tage opvaskeren, gøre rent, servere mad til børnene, vare indkøb og komme med en opskrift til et måltid. Det har givet mig utrolig meget at afprøve hvordan det er at være i et køkken, og jeg blev selv overrasket over hvor meget tid og planlægning det kræver at lave mad til så mange mennesker. Jeg fik også mærket hvordan det var at have et arbejde på fuld tid hvor man blev udfordret på mange forskellige områder. Jeg kan tage rigtig meget med fra praktikforløbet blandt andet er jeg blevet bedre til planlægning, spørge om hjælp når jeg har brug for hjælp, få et overblik over køkkenet, få mest ud af den tid man har når man er presset. Især det med at prøve selv at stå for et måltid, og en opskrift samt indkøb af vare gav mig rigtig meget og det føler jeg at jeg kan tage med til min kommende praktik, det at jeg er blevet mere selvstændig."
+        highlights:
+          - Lave mad
+          - Forberedelse madlavning
+          - Oprydning
+          - Servering for børnene
+      - company: Frederiksvej Børnehave
+        position: Praktik HF, Frederiksvej Børnehave
+        date:
+        start_date: 2020-09
+        end_date: 2020-12
+        location:
+        summary: Oprydning, rengøring og servering af måltider for børn.
+        highlights:
+          - Lave mad
+          - Forberedelse madlavning
+          - Oprydning
+          - Servering for børnene
+      - company: Fitness World Lygten
+        position: Praktik Fitness World Lygten
+        date:
+        start_date: 2015-08
+        end_date: 2017-06
+        location:
+        summary: "Opgaver: oprydning, rengøring, betjening af kunder og andet receptionist arbejde. Ordne varelager og modtage produkter."
+        highlights:
+          - Oprydning
+          - Rengøring
+          - Kundebetjening
+          - Receptionist
+          - Ordne varelager
+          - Varemodtagelse
+    interesser:
+      - bullet: Ernæring
+      - bullet: Styrketræning
+design:
+  theme: classic
+locale:
+  language: danish
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output
+    design:
+    locale:
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
+  pdf_title: NAME - CV
