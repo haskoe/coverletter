@@ -6,6 +6,7 @@ on:
       - main
     paths:
       - 'resume.yaml'
+      - '.github/workflows/render-cv.yml'
 
 jobs:
   render:
@@ -16,7 +17,7 @@ jobs:
 
       - name: Generate CV PDF
         run: |
-          docker run --rm -v ${{ github.workspace }}:/data mcanouil/rendercv render /data/resume.yaml
+          docker run --rm -v ${{ github.workspace }}:/data rendercv/rendercv render /data/resume.yaml
 
       - name: Upload PDF to GitHub Artifacts
         uses: actions/upload-artifact@v4
