@@ -80,9 +80,6 @@ cv:
       - bullet: Styrketræning
     Referencer:
       - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
-      - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
-      - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
-      - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
       - "Yderligere referencer udleveres på forespørgsel."
 design:
   theme: classic
