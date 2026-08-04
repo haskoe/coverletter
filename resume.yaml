@@ -14,11 +14,11 @@ cv:
   sections:
     Profil:
       - "Kandidatstuderende i Human Nutrition (MSc) ved Københavns Universitet (færdig august 2026) med professionsbachelor i Ernæring og Sundhed (Klinisk Diætetik). Stærk faglig og praktisk erfaring med ernæringsfysiologi, biokemi, kostvejledning og kostberegning."
-      - "Motiveret af at kombinere forskning og klinisk praksis: at bidrage med ny viden og samtidig være i tæt kontakt med patienter og støtte dem gennem konkrete ernæringsindsatser."
+      - "Har gennem studiet fået stor interesse for forskning og er motiveret af at kombinere den med klinisk praksis: at bidrage med ny viden og samtidig være i tæt kontakt med patienter og støtte dem gennem konkrete ernæringsindsatser."
       - "I mit kandidatspeciale planlagde og gennemførte jeg et klinisk studie af fosfor- og kalciumbalance hos fase 4/5 præ-dialyse nyrepatienter med patientrekruttering, dataindsamling i REDCap og Sundhedsplatformen samt statistisk analyse i GraphPad Prism. Erfaring med forskning, systematisk dataindsamling og dokumentation."
       - "Særlig interesse for klinisk ernæring til komplekse patienter, herunder onkologi og patienter i risiko for underernæring, samt for nefrologi og endokrinologi. Arbejder struktureret, systematisk og selvstændigt."
-      - "Erfaren med klinisk kostvejledning fra praktik på diætistlinjen: kostanamnese, patientsamtale og kostintervention efter NCP-modellen, samt måltidssammensætning til onkologi- og nyrepatienter. Til daglig styrketræner jeg og arbejder med egne kostplaner. Erhverver kørekort, forventet klar november 2026."
-      - "Trives i tværfaglige teams med både patientkontakt og projektarbejde. Møder patienter, pårørende og kolleger med engagement og nysgerrighed, og er fleksibel over for skiftende opgaver."
+      - "Erfaren med klinisk kostvejledning fra praktik på diætistlinjen: kostanamnese, patientsamtale og kostintervention efter NCP-modellen, samt måltidssammensætning til onkologi- og nyrepatienter. Til daglig styrketræner jeg. Erhverver kørekort, forventet klar november 2026."
+      - "Detaljeorienteret og vedholdende – bliver ved, til opgaverne er løst. Trives i tværfaglige teams med både patientkontakt og projektarbejde. Møder patienter, pårørende og kolleger med engagement og nysgerrighed, og er fleksibel over for skiftende opgaver."
     education:
       - institution: Københavns Universitet
         area: Human Nutrition
@@ -78,6 +78,12 @@ cv:
     interesser:
       - bullet: Ernæring
       - bullet: Styrketræning
+    Referencer:
+      - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
+      - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
+      - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
+      - "Mette Nielsen, klinisk diætist, Rigshospitalet – mette.nielsen@example.com, +45 12 34 56 78"
+      - "Yderligere referencer udleveres på forespørgsel."
 design:
   theme: classic
 locale:
