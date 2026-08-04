@@ -24,3 +24,19 @@ jobs:
         with:
           name: CV-PDF
           path: rendercv_output/*.pdf
+
+      - name: Commit and push updated PDF
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # Tilføj den nye PDF til Git
+          git add rendercv_output/Julian_Askøe_Bluming_CV.pdf
+          
+          # Commit og push kun, hvis der rent faktisk er ændringer i PDF'en
+          if git diff --staged --quiet; then
+            echo "Ingen ændringer i PDF'en."
+          else
+            git commit -m "docs: opdateret Julian_Askøe_Bluming_CV.pdf [skip ci]"
+            git push
+          fi          
