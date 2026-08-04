@@ -17,7 +17,7 @@ jobs:
 
       - name: Generate CV PDF
         run: |
-          docker run --rm -v ${{ github.workspace }}:/data rendercv/rendercv render /data/resume.yaml
+          docker run --rm -v ${{ github.workspace }}:/work -u $(id -u):$(id -g) -e HOME=/tmp -w /work ghcr.io/rendercv/rendercv render resume.yaml
 
       - name: Upload PDF to GitHub Artifacts
         uses: actions/upload-artifact@v4
