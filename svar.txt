@@ -1,0 +1,10 @@
+Mulighed 1: RenderCV → Markdown → Pandoc → DOCX (anbefalet)
+RenderCV genererer allerede en Markdown-fil (din dont_generate_markdown: false). Den kan konverteres til DOCX med Pandoc:
+
+--reference-doc lader dig styre fonte, marginer og overskriftsstil i Word.
+Google Docs kan derefter importere .docx direkte.
+Begrænsning: Layout bliver indholdsmæssigt korrekt, men ikke pixel-perfekt som PDF'en.
+
+Mulighed 2: RenderCV → HTML → Word
+Åbn derefter rendercv_output/resume.html i Word (Fil → Åbn). Word fortolker HTML'en og bevarer en del af strukturen.
+
