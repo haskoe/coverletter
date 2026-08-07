@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Julian Askøe Bluming
-  headline: Studerer Ernæring og Sundhed
+  headline: Kandidatstuderende i Human Nutrition
   location: Tobakskollegiet, Søborg, København
   email: julian.askoe@gmail.com
   photo:
@@ -15,9 +15,9 @@ cv:
     Profil:
       - "Kandidatstuderende i Human Nutrition (MSc) ved Københavns Universitet (færdig august 2026) med professionsbachelor i Ernæring og Sundhed (Klinisk Diætetik). Stærk faglig og praktisk erfaring med ernæringsfysiologi, biokemi, kostvejledning og kostberegning."
       - "Har gennem studiet fået stor interesse for forskning og er motiveret af at kombinere den med klinisk praksis: at bidrage med ny viden og samtidig være i tæt kontakt med patienter og støtte dem gennem konkrete ernæringsindsatser."
-      - "I mit kandidatspeciale planlagde og gennemførte jeg et klinisk studie af fosfor- og kalciumbalance hos fase 4/5 præ-dialyse nyrepatienter med patientrekruttering, dataindsamling i REDCap og Sundhedsplatformen samt statistisk analyse i GraphPad Prism. Erfaring med forskning, systematisk dataindsamling og dokumentation."
-      - "Særlig interesse for klinisk ernæring til komplekse patienter, herunder onkologi og patienter i risiko for underernæring, samt for nefrologi og endokrinologi. Arbejder struktureret, systematisk og selvstændigt."
-      - "Erfaren med klinisk kostvejledning fra praktik på diætistlinjen: kostanamnese, patientsamtale og kostintervention efter NCP-modellen, samt måltidssammensætning til onkologi- og nyrepatienter. Til daglig styrketræner jeg. Erhverver kørekort, forventet klar november 2026."
+      - "I mit kandidatspeciale planlagde og gennemførte jeg et klinisk studie af fosfor- og calciumbalance hos prædialysepatienter i stadie 4-5 med patientrekruttering, dataindsamling i REDCap og Sundhedsplatformen samt statistisk analyse i GraphPad Prism. Erfaring med forskning, systematisk dataindsamling og dokumentation."
+      - "Særlig interesse for klinisk ernæring til komplekse patienter, herunder onkologi og patienter i risiko for underernæring, samt for nefrologi og endokrinologi. Arbejder struktureret, grundigt og selvstændigt."
+      - "Erfaren med klinisk kostvejledning fra praktik på diætistlinjen: kostanamnese, patientsamtale og kostintervention efter NCP-modellen, samt måltidssammensætning til onkologi- og nyrepatienter. Erhverver kørekort, forventet klar november 2026."
       - "Detaljeorienteret og vedholdende – bliver ved, til opgaverne er løst. Trives i tværfaglige teams med både patientkontakt og projektarbejde. Møder patienter, pårørende og kolleger med engagement og nysgerrighed, og er fleksibel over for skiftende opgaver."
     education:
       - institution: Københavns Universitet
@@ -29,7 +29,7 @@ cv:
         location:
         summary:
         highlights:
-          - "Kandidatspeciale om sammenhængen mellem nyrefunktion og calcium-/fosfatbalance hos stadie 4-5 kronisk nyresyge patienter, samt sammenligning af calcium-, fosfor- og natriumindtag mellem vejet registrering og billedmetode (præcis titel følger). Udarbejdede forsøgsprotokol og registrerede forsøget på clinicaltrials.gov. Rekrutterede 50 patienter, lærte dem op i kostregistrering via begge metoder og gennemførte opfølgende samtaler og vejledning mht. calcium og fosfor. Anvendte Sundhedsplatformen og registrerede data i VitaKost, REDCap og Excel, med statistisk analyse i GraphPad Prism. Forsøget skal publiceres efter forsvar"
+          - "Kandidatspeciale om sammenhængen mellem nyrefunktion og calcium-/fosfatbalance hos stadie 4-5 kronisk nyresyge patienter, samt sammenligning af calcium-, fosfor- og natriumindtag mellem vejet registrering og billedmetode (præcis titel følger). Udarbejdede forsøgsprotokol og registrerede forsøget på ClinicalTrials.gov. Rekrutterede 50 patienter, instruerede dem i kostregistrering via begge metoder og gennemførte opfølgende samtaler og vejledning mht. calcium og fosfor. Anvendte Sundhedsplatformen og registrerede data i VitaKost, REDCap og Excel, med statistisk analyse i GraphPad Prism. Forsøget skal publiceres efter forsvar."
       - institution: Københavns Professionshøjskole
         area: Ernæring og Sundhed (Klinisk Diætetik)
         degree: BAS
@@ -39,7 +39,7 @@ cv:
         location:
         summary:
         highlights:
-          - "Bachelorprojekt: Indledende dataindsamling i forbindelse med et klinisk ernæringsforsøg om onkologipatienters ernæringsoptag efter cystektomi (Rigshospitalet, Ernæringsenheden). Bachelorprojektet omfattede opstartsfasen, da det fulde forløb strakte sig ud over et bachelorprojekts tidsramme."
+          - "Bachelorprojekt: Indledende dataindsamling i forbindelse med et klinisk ernæringsforsøg om onkologipatienters ernæringsindtag efter cystektomi (Rigshospitalet, Ernæringsenheden). Bachelorprojektet omfattede opstartsfasen, da det fulde studieforløb strakte sig ud over bachelorprojektets tidsramme."
     Praktik:
       - company: Rigshospitalet Glostrup
         position: Klinisk praktik, ernæringsterapi til neurologiske patienter
@@ -58,7 +58,7 @@ cv:
         location:
         summary: "6 ugers klinisk praktik på hjerteafdelingen og reumatologisk forskningsenhed."
         highlights:
-          - Vejledning i hjertesund/kolesterolsænkende kost samt højproteinkost til postoperative patienter (bl.a. CABG).
+          - Vejledning i hjertesund/kolesterolsænkende kost til patienter med hyperkolesterolæmi samt højproteinkost til enkelte postoperative patienter.
           - Forestod selvstændig undervisning i vægttab for knæartrosepatienter i forbindelse med et forskningsprojekt (1 ugedag).
       - company: Rigshospitalet København
         position: Klinisk praktik, nefrologisk afdeling
@@ -68,7 +68,7 @@ cv:
         location:
         summary: "10 ugers klinisk praktik på nefrologisk afdeling."
         highlights:
-          - Klinisk vejledning af præ-dialyse- og dialysepatienter inden for fosfat-, kalium- og proteinregulering.
+          - Klinisk vejledning af prædialyse- og dialysepatienter inden for fosfat-, kalium- og proteinregulering.
           - Vejledning og håndtering af endokrinologiske tilstande (type 1/2-diabetes og pancreasresekerede patienter).
           - Løbende tværfaglig dialog og sparring med afdelingens læger og sygeplejersker.
     interesser:
