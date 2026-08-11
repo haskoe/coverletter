@@ -4,8 +4,8 @@ cv:
   headline: Autoriseret klinisk diætist, kandidat i Human Ernæring
   location: Tobakskollegiet, Søborg, København
   email: julian.askoe@gmail.com
-  photo:
-  phone:
+  photo: photo.jpg
+  phone: +45 91 56 85 28
   website:
   social_networks:
     - network: GitHub
@@ -84,6 +84,8 @@ cv:
       - "Yderligere referencer udleveres på forespørgsel."
 design:
   theme: classic
+  typography:
+    alignment: left
 locale:
   language: danish
 settings:
