@@ -2,14 +2,12 @@
 cv:
   name: Julian Askøe Bluming
   headline: Autoriseret klinisk diætist, kandidat i Human Ernæring
-  location: Tobakskollegiet, Søborg, København
+  location: Pansvej 12, 2680 Solrød Strand, Danmark
   email: julian.askoe@gmail.com
   photo: photo.jpg
   phone: +45 91 56 85 28
   website:
   social_networks:
-    - network: GitHub
-      username: julianaskoe
   custom_connections:
   sections:
     Profil:
