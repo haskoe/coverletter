@@ -1,3 +1,8 @@
+Kan du lave en guide til spørgsmålene i links 
+ https://www.hk.dk/karriere/jobsoegningen/gode-raad-til-jobsamtalen
+ https://www.krifa.dk/jobsoegning/jobsamtale/spoergsmaal-til-jobsamtalen
+
+med udgangspunkt i jobopslaget  
 Jeg skal til samtale, som holdes online i teams, på stillingen herlev-annonce.txt. Min ansøgning er i ansoegning.txt og CV i ../resume.yaml
 Mit afgangsprojekt er i master-thesis-julian.md som jeg mener vil være en vigtigt brik i forhold til stillingen.
 
