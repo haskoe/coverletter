@@ -1,0 +1,106 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
+cv:
+  name: Julian Askøe Bluming
+  headline: Kandidat i Human Ernæring, autoriseret klinisk diætist
+  location: Pansvej 12, 2680 Solrød Strand, Danmark
+  email: julian.askoe@gmail.com
+  photo: photo.jpg
+  phone: +45 91 56 85 28
+  website:
+  social_networks:
+  custom_connections:
+  sections:
+    Profil:
+      - "Kandidat i human ernæring med erfaring fra klinisk forskning – protokolarbejde, datamanagement, statistiske analyser og deltagerkoordinering. Detaljeorienteret med høj kvalitetssans i datadokumentation, vant til at holde overblik over flere parallelle opgaver."
+      - "**Metode og data:** REDCap (opbygning af instrumenter under supervision, dataindtastning, datarensning og kvalitetssikring), GraphPad Prism og R. Statistiske analyser: korrelationsanalyser, t-test, Mann-Whitney, Wilcoxon og Bland-Altman. Systematisk litteratursøgning (PICO) og kritisk vurdering af studier. Udtræk af lab-data og journaloplysninger fra Sundhedsplatformen."
+      - "**Forskningsproces:** Erfaring med tillægsprotokol og deltagerinformation til VEK, registrering på ClinicalTrials.gov, udarbejdelse af deltagermateriale, rekruttering og samtykkeindhentning samt koordinering med forsøgslæge og klinisk personale."
+      - "**Formidling:** Speciale skrevet på engelsk, aktuelt under forberedelse til publicering som førsteforfatter. Fremlæggelse til journal club for afdelingens læger. Individuel oplæring og vejledning af studiedeltagere."
+      - "**Klinisk erfaring:** 20 ugers hospitalspraksis fordelt på fire specialer – grundlag for forståelse af klinisk hverdag, tværfagligt samarbejde og patientkontakt i en hospitalskontekst."
+      - "**Personlige egenskaber:** Arbejder selvstændigt og tager ejerskab over mine opgaver, men værdsætter faglig sparring og spørger til råds ved tvivl. Nysgerrig, fleksibel og indstillet på opgaver af varierende karakter."
+    education:
+      - institution: Københavns Universitet
+        area: Human Nutrition
+        degree: MSc
+        date:
+        start_date: 2024-09
+        end_date: 2026-08
+        location:
+        summary:
+        highlights:
+          - "**Kandidatspeciale** (45 ECTS, engelsk): *Phosphate and calcium balance in patients with chronic kidney disease stage 4-5.* Klinisk tillægsstudie til større kohorte, 52 rekrutterede deltagere. To fokusområder: korrelation mellem nyrefunktion og calcium-/fosfatbalance samt metodesammenligning af kostregistrering (vejet registrering vs. billedbaseret fotometode)."
+          - "**Protokol og godkendelser:** Udarbejdede udkast til tillægsprotokol og deltagerinformation (godkendt af VEK), udarbejdede deltagermateriale og registrerede studiet på ClinicalTrials.gov."
+          - "**Data og analyse:** Bidrog til opbygning af REDCap-instrumenter under supervision af ph.d.-studerende læge. Forestod datarensning og kvalitetssikring i REDCap og VitaKost samt udtræk af lab-data og journaler fra Sundhedsplatformen. Udførte statistiske analyser i GraphPad Prism og R – herunder korrelationsanalyser, non-parametriske tests og Bland-Altman-analyse – gennemgået løbende med vejleder."
+          - "**Deltagerkoordinering:** Rekruttering, samtykkeindhentning, oplæring af deltagere samt løbende opfølgning og telefonisk kontakt. Arbejdet foregik i tæt koordination med forsøgslæge og afdelingens personale."
+          - "**Formidling:** Fremlagde til journal club for afdelingens læger. Forbereder aktuelt studiet til publicering som førsteforfatter."
+          - "**Metodekurser:** *Study Design in Human Nutrition* (protokoludarbejdelse, studiedesign, statistisk analyse i R); *Evidence, Diet and Health* (kritisk analyse af forskningslitteratur og studiedesigns); *Tools and Techniques in Nutrition Research.* Karakterudskrift vedhæftet (gennemsnit 11,0)."
+      - institution: Københavns Professionshøjskole
+        area: Ernæring og Sundhed (Klinisk Diætetik)
+        degree: BAS
+        date:
+        start_date: 2021-02
+        end_date: 2024-06
+        location:
+        summary:
+        highlights:
+          - "**Bachelorprojekt** (Rigshospitalet, Ernæringsenheden): Bidrog til opstartsfasen og den systematiske dataindsamling i et prospektivt, observationelt studie af ERAS-behandlede cystektomipatienter (n=25). Kortlægning af energi- og proteinindtag og dækningsgrad, registrering af Nutrition Impact Symptoms samt opfølgning på vægtændringer og væskebalance over 30 dages postoperativt forløb. Systematisk journalarbejde i Sundhedsplatformen."
+          - "**Relevante kurser:** *Tolkning og anvendelse af klinisk forskning* – systematisk litteratursøgning (PICO) samt kritisk analyse og vurdering af kliniske studier."
+    Klinisk erfaring:
+      - company: Rigshospitalet København
+        position: Klinisk praktik, nefrologisk afdeling
+        date:
+        start_date: 2023-11
+        end_date: 2024-01
+        location:
+        summary: "10 ugers klinisk praktik."
+        highlights:
+          - Vejledning af dialyse- og prædialysepatienter samt én ugedag på endokrinologisk afdeling.
+          - Løbende tværfaglig dialog med læger og sygeplejersker.
+      - company: Bispebjerg og Frederiksberg Hospital
+        position: Klinisk praktik, hjerteafdelingen
+        date:
+        start_date: 2023-09
+        end_date: 2023-11
+        location:
+        summary: "6 ugers klinisk praktik på hjerteafdelingen og reumatologisk forskningsenhed."
+        highlights:
+          - Observerede undervisning og afholdt selv en undervisningsgang i forskningsprojekt om vægttab til knæartrosepatienter.
+      - company: Rigshospitalet Glostrup
+        position: Klinisk praktik, neurologisk afdeling
+        date:
+        start_date: 2023-08
+        end_date: 2023-09
+        location:
+        summary: "4 ugers klinisk praktik."
+        highlights:
+          - Opstart af ernæringsterapi til neurologiske patienter, herunder patienter med tetraplegi og Parkinson.
+    Sprog:
+      - "Dansk (modersmål) · engelsk (flydende skriftligt og mundtligt; speciale og kandidatuddannelse gennemført på engelsk)"
+    Referencer:
+      - "Jens Rikardt Andersen, MD, Københavns Universitet (specialevejleder) – jra@nexs.ku.dk, +45 23 34 66 54"
+      - "Kirsten Thal Jantzen, klinisk diætist, Herlev Hospital – kirsten.thal-jantzen@regionh.dk, +45 60 75 76 18"
+      - "Janne Christensen, klinisk diætist, Rigshospitalet Glostrup – janne.christensen@regionh.dk, +45 38 63 22 27"
+      - "Yderligere referencer udleveres på forespørgsel."
+design:
+  theme: classic
+  typography:
+    alignment: left
+locale:
+  language: danish
+settings:
+  current_date: today
+  render_command:
+    output_folder: rendercv_output
+    design:
+    locale:
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    dont_generate_markdown: false
+    dont_generate_html: false
+    dont_generate_typst: false
+    dont_generate_pdf: false
+    dont_generate_png: false
+  bold_keywords: []
+  pdf_title: NAME - CV

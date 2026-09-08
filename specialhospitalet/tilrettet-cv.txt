@@ -1,0 +1,37 @@
+CV — forskningsassistent
+Julian Askøe Bluming
+Kandidat i Human Ernæring, autoriseret klinisk diætist
+Pansvej 12, 2680 Solrød Strand · julian.askoe@gmail.com · 91 56 85 28
+Profil
+Kandidat i human ernæring med erfaring fra klinisk forskning — protokolarbejde, datamanagement, statistiske analyser og deltagerkoordinering. Detaljeorienteret med høj kvalitetssans i datadokumentation, vant til at holde overblik over flere parallelle opgaver.
+Metode og data: REDCap (opbygning af instrumenter under supervision, dataindtastning, datarensning og kvalitetssikring), GraphPad Prism og R. Statistiske analyser: korrelationsanalyser, t-test, Mann-Whitney, Wilcoxon og Bland-Altman. Systematisk litteratursøgning (PICO) og kritisk vurdering af studier. Udtræk af lab-data og journaloplysninger fra Sundhedsplatformen.
+Forskningsproces: Erfaring med tillægsprotokol og deltagerinformation til VEK, registrering på ClinicalTrials.gov, udarbejdelse af deltagermateriale, rekruttering og samtykkeindhentning samt koordinering med forsøgslæge og klinisk personale.
+Formidling: Speciale skrevet på engelsk, aktuelt under forberedelse til publicering som førsteforfatter. Fremlæggelse til journal club for afdelingens læger. Individuel oplæring og vejledning af studiedeltagere.
+Personlige egenskaber: Arbejder selvstændigt og tager ejerskab over mine opgaver, men værdsætter faglig sparring og spørger til råds ved tvivl. Nysgerrig, fleksibel og indstillet på opgaver af varierende karakter.
+Uddannelse
+MSc · Københavns Universitet, Human Nutrition · Sep 2024 – Aug 2026
+Kandidatspeciale (45 ECTS, engelsk): Phosphate and calcium balance in patients with chronic kidney disease stage 4-5. Klinisk tillægsstudie til større kohorte, 52 rekrutterede deltagere. To fokusområder: korrelation mellem nyrefunktion og calcium-/fosfatbalance samt metodesammenligning af kostregistrering (vejet registrering vs. billedbaseret fotometode).
+Protokol og godkendelser: Udarbejdede udkast til tillægsprotokol og deltagerinformation (godkendt af VEK), udarbejdede deltagermateriale og registrerede studiet på ClinicalTrials.gov.
+Data og analyse: Bidrog til opbygning af REDCap-instrumenter under supervision af ph.d.-studerende læge. Forestod datarensning og kvalitetssikring i REDCap og VitaKost samt udtræk af lab-data og journaler fra Sundhedsplatformen. Udførte statistiske analyser i GraphPad Prism og R — herunder korrelationsanalyser, non-parametriske tests og Bland-Altman-analyse — gennemgået løbende med vejleder.
+Deltagerkoordinering: Rekruttering, samtykkeindhentning, oplæring af deltagere samt løbende opfølgning og telefonisk kontakt. Arbejdet foregik i tæt koordination med forsøgslæge og afdelingens personale.
+Formidling: Fremlagde til journal club for afdelingens læger. Forbereder aktuelt studiet til publicering som førsteforfatter.
+Metodekurser: Study Design in Human Nutrition (protokoludarbejdelse, studiedesign, statistisk analyse i R); Evidence, Diet and Health (kritisk analyse af forskningslitteratur og studiedesigns); Tools and Techniques in Nutrition Research. Karakterudskrift vedhæftet (gennemsnit 11,0).
+BAS · Københavns Professionshøjskole, Ernæring og Sundhed (Klinisk Diætetik) · Feb 2021 – Jun 2024
+Bachelorprojekt (Rigshospitalet, Ernæringsenheden): Bidrog til opstartsfasen og den systematiske dataindsamling i et prospektivt, observationelt studie af ERAS-behandlede cystektomipatienter (n=25). Kortlægning af energi- og proteinindtag og dækningsgrad, registrering af Nutrition Impact Symptoms samt opfølgning på vægtændringer og væskebalance over 30 dages postoperativt forløb. Systematisk journalarbejde i Sundhedsplatformen.
+Relevante kurser: Tolkning og anvendelse af klinisk forskning — systematisk litteratursøgning (PICO) samt kritisk analyse og vurdering af kliniske studier.
+Klinisk erfaring
+20 ugers hospitalspraksis fordelt på fire specialer — grundlag for forståelse af klinisk hverdag, tværfagligt samarbejde og patientkontakt i en hospitalskontekst.
+Rigshospitalet København, nefrologisk afdeling · Nov 2023 – Jan 2024 (10 uger)
+Vejledning af dialyse- og prædialysepatienter samt én ugedag på endokrinologisk afdeling. Løbende tværfaglig dialog med læger og sygeplejersker.
+Bispebjerg og Frederiksberg Hospital, hjerteafdelingen · Sep – Nov 2023 (6 uger)
+Klinisk praktik på hjerteafdelingen og reumatologisk forskningsenhed. Observerede undervisning og afholdt selv en undervisningsgang i forskningsprojekt om vægttab til knæartrosepatienter.
+Rigshospitalet Glostrup, neurologisk afdeling · Aug – Sep 2023 (4 uger)
+Opstart af ernæringsterapi til neurologiske patienter, herunder patienter med tetraplegi og Parkinson.
+Sprog
+Dansk (modersmål) · engelsk (flydende skriftligt og mundtligt; speciale og kandidatuddannelse gennemført på engelsk)
+Referencer
+Jens Rikardt Andersen, MD, Københavns Universitet (specialevejleder) — jra@nexs.ku.dk, +45 23 34 66 54
+Kirsten Thal Jantzen, klinisk diætist, Herlev Hospital — kirsten.thal-jantzen@regionh.dk, +45 60 75 76 18
+Janne Christensen, klinisk diætist, Rigshospitalet Glostrup — janne.christensen@regionh.dk, +45 38 63 22 27
+Yderligere referencer udleveres på forespørgsel.
+
