@@ -1,8 +1,8 @@
 # yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.8/schema.json
 cv:
   name: Julian Askøe Bluming
-  headline: Autoriseret klinisk diötist, kandidat i Human Ernèring
-  location: Pansvej 12, 2680 Solrøs Strand, Danmark
+  headline: Autoriseret klinisk diætist, kandidat i Human Ernæring
+  location: Pansvej 12, 2680 Solrød Strand, Danmark
   email: julian.askoe@gmail.com
   photo: photo.jpg
   phone: +45 91 56 85 28
@@ -11,12 +11,12 @@ cv:
   custom_connections:
   sections:
     Profil:
-      - "Autoriseret klinisk diötist med kandidatgrad i Human Ernèring. Motiveret for diötbehandling af indlagte og ambulante patienter, diabetesomrèdet og knoglesundheid."
-      - "**Klinisk erfaring:** 20 ugers hospitalspraksis fordelt pø endokrinologi, nefrologi, kardiologi og neurologi — bède ambulant diötbehandling og Ernèringsbehandling af indlagte pø medicinske sengeafsnit. Herunder vejledning af patienter med type 1- og type 2-diabetes, pancreasresekerede samt komplekse nyrepatienter med samtidig diabetes. Fra mit kandidatspeciale flere månedlers erfaring med selvståndigt at varetage et deltagerforlåb: samtaler, opløring, opfølgning og telefonisk kontakt."
-      - "**Formidling:** Individuel opløring og vejledning af patienter med vidt forskellige forudsätninger. Undervisningsgang for knäartrosepatienter samt fremläggelse til journal club for afdelingens läger."
-      - "**IT og systematik:** Rutineret bruger af Sundhedsplatformen (selvståndigt udtrøk af lab-data og journaloplysninger) samt VitaKost og REDCap. Vant til at holde overblik over mange parallelle patientforlåb."
-      - "**Personlige egenskaber:** Fagligt nrädet og udpräget detaljeorienteret, med stor vägt pø den individuelle tilgang til hver enkelt patient. Arbejder selvståndigt og driver gerne mine egne opgaver, men vèrdsètter faglig sparring højt og spørger gerne til råds. Fleksibel og vägter et godt arbejdsmiljø højt."
-    education:
+      - "Autoriseret klinisk diætist med kandidatgrad i Human Ernæring. Motiveret for det palliative område: ernæringsbehandling i komplekse og alvorlige sygdomsforløb, hvor livskvalitet, lindring og patientens egne ønsker vejer tungere end ernæringsmæssig optimering."
+      - "**Klinisk erfaring:** 20 ugers hospitalspraksis fordelt på endokrinologi, nefrologi, kardiologi og neurologi – både ambulant diætbehandling og ernæringsbehandling af indlagte på medicinske sengeafsnit. Herunder vejledning af patienter med komplekse og kroniske sygdomsforløb, bl.a. dialyse- og prædialysepatienter, patienter med diabetes og neurologiske patienter. Fra mit kandidatspeciale flere måneders erfaring med selvstændigt at varetage et deltagerforløb: samtaler, oplæring, opfølgning og telefonisk kontakt."
+      - "**Formidling:** Individuel oplæring og vejledning af patienter med vidt forskellige forudsætninger. Undervisningsgang for knæartrosepatienter samt fremlæggelse til journal club for afdelingens læger."
+      - "**IT og systematik:** Rutineret bruger af Sundhedsplatformen (selvstændigt udtræk af lab-data og journaloplysninger) samt VitaKost og REDCap. Vant til at holde overblik over mange parallelle patientforløb."
+      - "**Personlige egenskaber:** Møder hver enkelt patient med nærvær og respekt for egne ønsker og værdier. Fagligt engageret og detaljeorienteret. Arbejder selvstændigt og driver gerne mine egne opgaver, men værdsætter faglig sparring højt og spørger gerne til råds. Fleksibel og vægter et godt arbejdsmiljø højt."
+    Uddannelse:
       - institution: Københavns Universitet
         area: Human Nutrition
         degree: MSc
@@ -26,14 +26,14 @@ cv:
         location:
         summary:
         highlights:
-          - "**Kandidatspeciale** (nefrologisk Herlev Hospital): Klinisk tillègsstudie med kronisk nyresyge patienter (52 rekrutterede til studiet). To fokusomrèder: nyrefunktion og calcium-/fosfatbalance samt metodesammenligning af kostregistrering (vejet registrering vs. billedbaseret fotometode)."
-          - "**Deltagerarbejde:** Afholdt samtaler med deltagerne efter lägens informationssamtale, indhentede samtykke og oplèrte dem i kostregistrering. Forestod modtagelse og gennemgang af registreringer samt telefonisk opfølgning ved spørgsmål eller afvigelser fra anbefalingerne."
-          - "**Ansvar og samarbejde:** Udarbejdede protokol, deltagerinformation (godkendt af VEK) og diötetisk vejledningsmateriale. Drev kostregistreringsdelen i tèt koordination med forsøgsläge og afdelingens personale. Forbereder aktuelt publicering som førstforfatter."
-          - "**Formidling:** Fremlagde til journal club for afdelingens läger."
-          - "**Data:** Udtrøk af lab-data og journaler fra Sundhedsplatformen, databearbejdning i VitaKost og REDCap, statistisk analyse i GraphPad Prism."
-          - "**Relevante kurser:** *Nutrition Related Diseases* og *Integrative Human Metabolism* (begge med fokus pø overvägt og diabetes); *Cellular and Integrative Physiology* (kardiovaskulär, respiratorisk og gastrointestinal fysiologi); *Study Design in Human Nutrition* – protokoludarbejdelse, statistisk analyse i R-studio og studiedesign; *Evidence, Diet and Health* – avanceret kritisk analyse af forskningslitteratur og studiedesigns. (Karakterudskrift vedhèftet)."
+          - "**Kandidatspeciale** (nefrologisk afdeling, Herlev Hospital): Klinisk tillægsstudie med kronisk nyresyge patienter (52 rekrutterede til studiet). To fokusområder: nyrefunktion og calcium-/fosfatbalance samt metodesammenligning af kostregistrering (vejet registrering vs. billedbaseret fotometode)."
+          - "**Deltagerarbejde:** Afholdt samtaler med deltagerne efter lægens informationssamtale, indhentede samtykke og oplærte dem i kostregistrering. Forestod modtagelse og gennemgang af registreringer samt telefonisk opfølgning ved spørgsmål eller afvigelser fra anbefalingerne."
+          - "**Ansvar og samarbejde:** Udarbejdede protokol, deltagerinformation (godkendt af VEK) og diætetisk vejledningsmateriale. Drev kostregistreringsdelen i tæt koordination med forsøgslæge og afdelingens personale. Forbereder aktuelt publicering som førsteforfatter."
+          - "**Formidling:** Fremlagde til journal club for afdelingens læger."
+          - "**Data:** Udtræk af lab-data og journaler fra Sundhedsplatformen, databearbejdning i VitaKost og REDCap, statistisk analyse i GraphPad Prism."
+          - "**Relevante kurser:** *Nutrition Related Diseases* og *Integrative Human Metabolism* (begge med fokus på overvægt og diabetes); *Cellular and Integrative Physiology* (kardiovaskulær og respiratorisk fysiologi); *Cell Cycle Control and Cancer* (cancerudvikling på celle- og DNA-niveau); *Study Design in Human Nutrition* og *Evidence, Diet and Health* (kritisk vurdering af forskningslitteratur). Karakterudskrift vedhæftet."
       - institution: Københavns Professionshøjskole
-        area: Ernèring og Sundhed (Klinisk Diötetik)
+        area: Ernæring og Sundhed (Klinisk Diætetik)
         degree: BAS
         date:
         start_date: 2021-02
@@ -41,19 +41,9 @@ cv:
         location:
         summary:
         highlights:
-          - "**Bachelorprojekt** (Rigshospitalet, Ernèringsenheden): Systematisk dataindsamling i prospektivt, observationelt studie (n=25). Kortlägning af energi- og proteinindtag, däkningsgrad samt opfølgning pø vägtåndringer over 30 dages postoperativt forlåb — herunder journalopslag i Sundhedsplatformen."
-          - "Undervisning i den motiverende samtale og sundhedsødagogisk formidling samt kritisk vurdering af kliniske studier."
+          - "**Bachelorprojekt** (Rigshospitalet, Ernæringsenheden): Systematisk dataindsamling i prospektivt, observationelt studie (n=25). Kortlægning af energi- og proteinindtag og dækningsgrad, registrering af Nutrition Impact Symptoms (appetitløshed, kvalme, smagsforandringer m.m.) samt opfølgning på vægtændringer over 30 dages postoperativt forløb – herunder journalopslag i Sundhedsplatformen."
+          - "**Relevante fag:** Undervisning i den motiverende samtale og sundhedspædagogisk formidling samt kritisk vurdering af kliniske studier."
     Praktik:
-      - company: Bispebjerg og Frederiksberg Hospital
-        position: Klinisk praktik, hjerteafdelingen
-        date:
-        start_date: 2023-09
-        end_date: 2023-11
-        location:
-        summary: "6 ugers klinisk praktik pø hjerteafdelingen og reumatologisk forskningsenhed."
-        highlights:
-          - "Observerede undervisning og afholdt selv en undervisningsgang i forskningsprojekt om vägttab til knäartrosepatienter."
-          - "Vejledning i hjertesund og kolesterolsänkende kost samt højproteinkost til postoperative patienter efter CABG."
       - company: Rigshospitalet København
         position: Klinisk praktik, nefrologisk afdeling
         date:
@@ -62,9 +52,9 @@ cv:
         location:
         summary: "10 ugers klinisk praktik."
         highlights:
-          - "1 ugedag tilknyttet endokrinologisk afdeling: vejledning af patienter med type 1- og type 2-diabetes samt pancreasresekerede."
-          - "Vejledning af dialyse- og prädialysepatienter, herunder flere med samtidig type 2-diabetes, hvor flere ernèringsmåssige hensyn skal afvejes i en praktisk gennemførlige kostplan."
-          - "Løbende tvärfaglig dialog med afdelingens läger og sygeplejersker."
+          - "Én ugedag tilknyttet endokrinologisk afdeling: vejledning af patienter med type 1- og type 2-diabetes samt pancreasresecerede."
+          - Vejledning af dialyse- og prædialysepatienter, herunder flere med samtidig type 2-diabetes, hvor flere ernæringsmæssige hensyn skal afvejes i én praktisk gennemførlig kostplan.
+          - Løbende tværfaglig dialog med afdelingens læger og sygeplejersker.
       - company: Rigshospitalet Glostrup
         position: Klinisk praktik, neurologisk afdeling
         date:
@@ -73,17 +63,27 @@ cv:
         location:
         summary: "4 ugers klinisk praktik."
         highlights:
-          - "Opstart af Ernèringsbehandling til neurologiske patienter samt vejledning af type 2 diabetes patienter."
-    interesser:
-      - bullet: Ernèring
-      - bullet: Sundhedsødagogik og formidling
-      - bullet: Styrketräning
+          - Opstart af ernæringsterapi til neurologiske patienter, bl.a. patienter med Parkinson og tetraplegi, samt vejledning af patienter med type 2-diabetes.
+      - company: Bispebjerg og Frederiksberg Hospital
+        position: Klinisk praktik, hjerteafdelingen
+        date:
+        start_date: 2023-09
+        end_date: 2023-11
+        location:
+        summary: "6 ugers klinisk praktik på hjerteafdelingen og reumatologisk forskningsenhed."
+        highlights:
+          - Observerede undervisning og afholdt selv en undervisningsgang i forskningsprojekt om vægttab til knæartrosepatienter.
+          - Vejledning i hjertesund og kolesterolsænkende kost samt højproteinkost til postoperative patienter efter CABG.
+    Interesser:
+      - bullet: Ernæring
+      - bullet: Sundhedspædagogik og formidling
+      - bullet: Styrketræning
     Referencer:
-      - "Kirsten Thal Jantzen, klinisk diötist, Herlev Hospital (vejleder, nefrologisk afdeling) — kirsten.thal-jantzen@regionh.dk, +45 60 75 76 18"
-      - "Janne Christensen, klinisk diötist, Rigshospitalet Glostrup — janne.christensen@regionh.dk, +45 38 63 22 27"
-      - "Jens Rikardt Andersen, MD, Københavns Universitet (specialevejleder) — jra@nexs.ku.dk, +45 23 34 66 54"
-      - "Ane Rytter, klinisk chefdiötist, Rigshospitalet — Ane.rytter@regionh.dk, +45 35 45 08 55"
-      - "Yderligere referencer udleveres pø forespørgssel."
+      - "Kirsten Thal Jantzen, klinisk diætist, Herlev Hospital (vejleder, nefrologisk afdeling) – kirsten.thal-jantzen@regionh.dk, +45 60 75 76 18"
+      - "Janne Christensen, klinisk diætist, Rigshospitalet Glostrup – janne.christensen@regionh.dk, +45 38 63 22 27"
+      - "Jens Rikardt Andersen, MD, Københavns Universitet (specialevejleder) – jra@nexs.ku.dk, +45 23 34 66 54"
+      - "Ane Rytter, klinisk chefdiætist, Rigshospitalet – ane.rytter@regionh.dk, +45 35 45 08 55"
+      - "Yderligere referencer udleveres på forespørgsel."
 design:
   theme: classic
   typography:
